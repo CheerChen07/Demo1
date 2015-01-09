@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
 
 	public static void  main(String[] args) {
-		// TODO Auto-generated method stasdsadub
+		// TODO Auto-generated method stub
 		Transform tf=new Transform();
 
 		System.out.println("请输入一个阿拉伯金额");
