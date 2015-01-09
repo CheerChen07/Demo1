@@ -6,7 +6,7 @@ public class Main {
 
 	public static void  main(String[] args) {
 		// TODO Auto-generated method stub
-//haahhhahasfdsd This is me.
+//haahhhahasfdsd This is me.HAHAHAHAHA
 		Transform tf=new Transform();
 
 		System.out.println("请输入一个阿拉伯金额");
