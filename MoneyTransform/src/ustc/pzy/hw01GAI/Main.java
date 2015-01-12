@@ -3,7 +3,7 @@ package ustc.pzy.hw01GAI;
 import java.util.Scanner;
 
 public class Main {
-
+//新的分支Test的修改
 	public static void  main(String[] args) {
 		// TODO Auto-generated method stub
 //haahhhahasfdsd This is me.HAHAHAHAHA
